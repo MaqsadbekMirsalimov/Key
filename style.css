@@ -1,0 +1,12 @@
+body {
+    background-color: darkgray;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-heart {
+    color: red;
+}
